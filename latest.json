@@ -5,19 +5,19 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dummy-signature",
-      "url": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.0/Vulcan_0.1.0_x64.dmg"
+      "url": "https://download.usevulcan.app/Vulcan_0.1.0_x64.dmg"
     },
     "darwin-aarch64": {
       "signature": "dummy-signature", 
-      "url": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.0/Vulcan_0.1.0_aarch64.dmg"
+      "url": "https://download.usevulcan.app/Vulcan_0.1.0_aarch64.dmg"
     },
     "linux-x86_64": {
       "signature": "dummy-signature",
-      "url": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.0/vulcan_0.1.0_amd64.AppImage"
+      "url": "https://download.usevulcan.app/vulcan_0.1.0_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dummy-signature",
-      "url": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.0/HEM%20Batch%20Modeller_0.1.0_x64-setup.exe"
+      "url": "https://download.usevulcan.app/HEM%20Batch%20Modeller_0.1.0_x64-setup.exe"
     }
   }
 }
