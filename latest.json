@@ -1,23 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "Vulcan v0.1.0 - Initial release with core functionality",
-  "pub_date": "2025-07-20T20:01:00Z",
+  "version": "0.1.1",
+  "notes": "Fix: Parameter library loading. Windows path cleaning. Lint fixes.",
+  "pub_date": "2025-07-21T19:32:59Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dummy-signature",
-      "url": "https://raw.githubusercontent.com/baziyer/vulcan-releases/main/Vulcan_0.1.0_x64.dmg"
-    },
     "darwin-aarch64": {
-      "signature": "dummy-signature", 
-      "url": "https://raw.githubusercontent.com/baziyer/vulcan-releases/main/Vulcan_0.1.0_aarch64.dmg"
-    },
-    "linux-x86_64": {
-      "signature": "dummy-signature",
-      "url": "https://raw.githubusercontent.com/baziyer/vulcan-releases/main/Vulcan_0.1.0_amd64.AppImage"
+      "signature": "",
+      "url": "./Vulcan_0.1.1_manual.dmg"
     },
     "windows-x86_64": {
-      "signature": "dummy-signature",
-      "url": "https://raw.githubusercontent.com/baziyer/vulcan-releases/main/Vulcan_0.1.0_x64-setup.exe"
+      "signature": "",
+      "url": "./vulcan-windows-eb46e55228338de768a53d26dbe4c2a0c451caf8.zip"
     }
   }
-}
+} 

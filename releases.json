@@ -1,0 +1,17 @@
+[
+  {
+    "version": "0.1.1",
+    "notes": "Fix: Parameter library loading. Windows path cleaning. Lint fixes.",
+    "pub_date": "2025-07-21T19:32:59Z",
+    "downloads": {
+      "darwin-aarch64": "./Vulcan_0.1.1_manual.dmg",
+      "windows-x86_64": "./vulcan-windows-eb46e55228338de768a53d26dbe4c2a0c451caf8.zip"
+    }
+  },
+  {
+    "version": "0.1.0",
+    "notes": "Initial public release. Added authentication, batch runner, and results viewer.",
+    "pub_date": "2025-07-20T20:01:00Z",
+    "downloads": {}
+  }
+] 
