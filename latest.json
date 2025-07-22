@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "./Vulcan_0.1.1_manual.dmg"
+      "url": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.1/Vulcan_0.1.1_aarch64.dmg"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "./vulcan-windows-eb46e55228338de768a53d26dbe4c2a0c451caf8.zip"
+      "url": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.1/Vulcan_0.1.1_x64-setup.exe"
     }
   }
-} 
+}

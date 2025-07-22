@@ -1,11 +1,11 @@
 [
   {
     "version": "0.1.1",
-    "notes": "Parameter library loading and viewing",
+    "notes": "Fix: Parameter library loading. Windows path cleaning. Lint fixes.",
     "pub_date": "2025-07-21T19:32:59Z",
     "downloads": {
-      "darwin-aarch64": "./Vulcan_0.1.1_manual.dmg",
-      "windows-x86_64": "./vulcan-windows-eb46e55228338de768a53d26dbe4c2a0c451caf8.zip"
+      "darwin-aarch64": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.1/Vulcan_0.1.1_aarch64.dmg",
+      "windows-x86_64": "https://github.com/baziyer/vulcan-releases/releases/download/v0.1.1/Vulcan_0.1.1_x64-setup.exe"
     }
   },
   {
@@ -14,4 +14,4 @@
     "pub_date": "2025-07-20T20:01:00Z",
     "downloads": {}
   }
-] 
+]
