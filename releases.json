@@ -1,7 +1,7 @@
 [
   {
     "version": "0.1.1",
-    "notes": "Fix: Parameter library loading. Windows path cleaning. Lint fixes.",
+    "notes": "Parameter library loading and viewing",
     "pub_date": "2025-07-21T19:32:59Z",
     "downloads": {
       "darwin-aarch64": "./Vulcan_0.1.1_manual.dmg",
